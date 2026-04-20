@@ -51,9 +51,9 @@ Foi utilizado mutex para controlar o acesso às estruturas compartilhadas, evita
 
 ## Estrutura do Projeto
 
-Algoritmo_do_Banqueiro/
-│── main.c
-│── README.md
+Algoritmo_do_Banqueiro/  
+│── main.c  
+│── README.md  
 │── Trabalho_Pratico_1.pdf
 
 ---
